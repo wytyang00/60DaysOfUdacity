@@ -113,3 +113,11 @@
 • Began the first project of the lesson 8: Encrypted Deep Learning
 
 • Project: started training both PPO and Rainbow DQN agents in trading gym environments.
+
+---
+
+**Day 13:**
+
+• Finished the Encrypted Database project in lesson 9: Encrypted Deep Learning!
+
+• Applied my Rainbow DQN code in the trading gym environment, and it performed much better than our implementation of a PPO agent! (@jeffrey Lim_2)
