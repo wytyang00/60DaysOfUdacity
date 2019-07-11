@@ -121,3 +121,11 @@
 • Finished the Encrypted Database project in lesson 9: Encrypted Deep Learning!
 
 • Applied my Rainbow DQN code in the trading gym environment, and it performed much better than our implementation of a PPO agent! (@jeffrey Lim_2)
+
+---
+
+**Day 14:**
+
+• Finished the lessons from 9.6 through the end of the course!
+
+Now I need to start working on the keystone project. I'm thinking of doing it as a group...
