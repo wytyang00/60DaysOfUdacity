@@ -129,3 +129,19 @@
 • Finished the lessons from 9.6 through the end of the course!
 
 Now I need to start working on the keystone project. I'm thinking of doing it as a group...
+
+---
+
+**Day 15:**
+
+• Decided to continue with my music generation project: https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
+
+• Searched for ideas & examples of models used for music (or any sequential data) generation. I've found several things I could try: **Professor Forcing**, **Scheduled Sampling**, **PixelRNN**, **PixelCNN++**
+
+• Resources I've found:
+
+  * https://www.youtube.com/watch?v=nA3YOFUCn4U
+
+  * https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173
+
+  * https://arxiv.org/abs/1610.09038
