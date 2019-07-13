@@ -145,3 +145,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
   * https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173
 
   * https://arxiv.org/abs/1610.09038
+
+---
+
+**Day 16:**
+
+• Attended a local Korean meet-up in the evening with @Yujin, @jeffrey Lim_2, @GwKim! We introduced ourselves to each other, shared recent activities, and discussed some concepts and projects.
