@@ -151,3 +151,11 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 **Day 16:**
 
 • Attended a local Korean meet-up in the evening with @Yujin, @jeffrey Lim_2, @GwKim! We introduced ourselves to each other, shared recent activities, and discussed some concepts and projects.
+
+---
+
+**Day 17:**
+
+• Edited part of my code for the Section 3 project, mainly to clarify the steps for updating the global model using the trained local models: (https://github.com/wytyang00/private-ai/blob/master/final_projects/Section%203%20-%20Securing%20Federated%20Learning.ipynb)
+
+• Currently following the walk-through of _Attention Is All You Need_ and a PyTorch implementation of Transformer: (http://nlp.seas.harvard.edu/2018/04/03/attention), (https://github.com/wytyang00/Transformer-Hands-On-Tutorial)
