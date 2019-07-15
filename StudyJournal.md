@@ -159,3 +159,11 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • Edited part of my code for the Section 3 project, mainly to clarify the steps for updating the global model using the trained local models: (https://github.com/wytyang00/private-ai/blob/master/final_projects/Section%203%20-%20Securing%20Federated%20Learning.ipynb)
 
 • Currently following the walk-through of _Attention Is All You Need_ and a PyTorch implementation of Transformer: (http://nlp.seas.harvard.edu/2018/04/03/attention), (https://github.com/wytyang00/Transformer-Hands-On-Tutorial)
+
+---
+
+**Day 18:**
+
+• After downloading the trading history of BNB/BTC, configuring the _Buying_ and _Selling_ mechanisms in our custom trading environment, and scaling the rewards with respect to the initial budget, @jeffrey Lim_2 and I finally started training a Rainbow DQN to see whether it can learn anything in the environment. (https://github.com/deconlabs/Binanace_trading_simulation)
+
+• I'm still following through the article _Annotated Transformer_. I'm not so familiar with using masks, so I'm trying to understand their roles in this algorithm...
