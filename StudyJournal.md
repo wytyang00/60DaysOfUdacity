@@ -167,3 +167,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • After downloading the trading history of BNB/BTC, configuring the _Buying_ and _Selling_ mechanisms in our custom trading environment, and scaling the rewards with respect to the initial budget, @jeffrey Lim_2 and I finally started training a Rainbow DQN to see whether it can learn anything in the environment. (https://github.com/deconlabs/Binanace_trading_simulation)
 
 • I'm still following through the article _Annotated Transformer_. I'm not so familiar with using masks, so I'm trying to understand their roles in this algorithm...
+
+---
+
+**Day 19:**
+
+• Finally got in to one of the core parts of our trading simulation project: training many agents with different "risk-aversion" parameter in parallel. Due to the size of the replay memory growing bigger for each Rainbow agent—which is an improved version of DQN—we could fit only about 30 agents using 126GB of RAM—we still have quite a bit of space in vRAM, but the lack of CPU RAM is not allowing us to fully utilize our GPUs... (https://github.com/deconlabs/Binanace_trading_simulation)
