@@ -173,3 +173,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 **Day 19:**
 
 • Finally got in to one of the core parts of our trading simulation project: training many agents with different "risk-aversion" parameter in parallel. Due to the size of the replay memory growing bigger for each Rainbow agent—which is an improved version of DQN—we could fit only about 30 agents using 126GB of RAM—we still have quite a bit of space in vRAM, but the lack of CPU RAM is not allowing us to fully utilize our GPUs... (https://github.com/deconlabs/Binanace_trading_simulation)
+
+---
+
+**Day 20:**
+
+• Found out that the code in here(http://nlp.seas.harvard.edu/2018/04/03/attention) contains many deprecated or significantly changed functions. Spent most of my time on this notebook fixing it so that it's compatible with the latest PyTorch version... Seems like actually understanding the Transformer algorithm would take a few more days. (https://github.com/wytyang00/Transformer-Hands-On-Tutorial)
