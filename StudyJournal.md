@@ -179,3 +179,11 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 **Day 20:**
 
 • Found out that the code in here(http://nlp.seas.harvard.edu/2018/04/03/attention) contains many deprecated or significantly changed functions. Spent most of my time on this notebook fixing it so that it's compatible with the latest PyTorch version... Seems like actually understanding the Transformer algorithm would take a few more days. (https://github.com/wytyang00/Transformer-Hands-On-Tutorial)
+
+---
+
+**Day 21:**
+
+• Still investigating the Transformer code.
+
+• Started training a set of copies of trained DRL agents in a trading environment with different fee configuration.
