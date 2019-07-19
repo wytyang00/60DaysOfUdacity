@@ -187,3 +187,11 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • Still investigating the Transformer code.
 
 • Started training a set of copies of trained DRL agents in a trading environment with different fee configuration.
+
+---
+
+**Day 22:**
+
+• Continued re-training the RL agents in trading environments with different fees.
+
+• Found a similar study done by another group and started reading the paper to see how they approached this problem (http://www.nada.kth.se/~ann/exjobb/marcus_elwin.pdf)
