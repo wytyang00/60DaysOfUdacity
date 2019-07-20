@@ -195,3 +195,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • Continued re-training the RL agents in trading environments with different fees.
 
 • Found a similar study done by another group and started reading the paper to see how they approached this problem (http://www.nada.kth.se/~ann/exjobb/marcus_elwin.pdf)
+
+---
+
+**Day 23:**
+
+• Visualized each part of the Transformer implemented in the code so that I can grasp how they are connected together: https://github.com/wytyang00/Transformer-Hands-On-Tutorial
