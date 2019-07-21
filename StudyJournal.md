@@ -201,3 +201,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 **Day 23:**
 
 • Visualized each part of the Transformer implemented in the code so that I can grasp how they are connected together: https://github.com/wytyang00/Transformer-Hands-On-Tutorial
+
+---
+
+**Day 24:**
+
+• Understood most part of the Transformer architecture. Trying to understand the implementation for the multi-head attention.
