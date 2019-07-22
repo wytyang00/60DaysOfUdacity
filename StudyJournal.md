@@ -207,3 +207,11 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 **Day 24:**
 
 • Understood most part of the Transformer architecture. Trying to understand the implementation for the multi-head attention.
+
+---
+
+**Day 25:**
+
+• Started training my own agent with LSTM and self-attention in the trading environment while other agents are being trained.
+
+• Also, fixed some parts of the training code where some values were held constant when they were supposed to be variable.
