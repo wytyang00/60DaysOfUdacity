@@ -215,3 +215,11 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • Started training my own agent with LSTM and self-attention in the trading environment while other agents are being trained.
 
 • Also, fixed some parts of the training code where some values were held constant when they were supposed to be variable.
+
+---
+
+**Day 26:**
+
+• Continued to train DRL trading agents based on bidirectional LSTM and Multi-head Self-Attention in two different environment configurations—more configurations are planned.
+
+• Implemented "Integrated Gradients" method for computing feature importance values.
