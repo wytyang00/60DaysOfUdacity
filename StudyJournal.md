@@ -223,3 +223,11 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • Continued to train DRL trading agents based on bidirectional LSTM and Multi-head Self-Attention in two different environment configurations—more configurations are planned.
 
 • Implemented "Integrated Gradients" method for computing feature importance values.
+
+---
+
+**Day 27:**
+
+• Visualized feature importance and attention weights of trading agents. (https://github.com/deconlabs/Binanace_trading_simulation)
+
+• Started training another agent with attention with increasing number of timesteps per episode.
