@@ -231,3 +231,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • Visualized feature importance and attention weights of trading agents. (https://github.com/deconlabs/Binanace_trading_simulation)
 
 • Started training another agent with attention with increasing number of timesteps per episode.
+
+---
+
+**Day 28:**
+
+• Continuing my music generation project, this time using Professor Forcing method (https://arxiv.org/abs/1610.09038)—it's very similar to GANs. Still a work in progress (https://github.com/wytyang00/undertale_deltarune_soundtrack_generator).
