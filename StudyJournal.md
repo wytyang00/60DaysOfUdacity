@@ -237,3 +237,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 **Day 28:**
 
 • Continuing my music generation project, this time using Professor Forcing method (https://arxiv.org/abs/1610.09038)—it's very similar to GANs. Still a work in progress (https://github.com/wytyang00/undertale_deltarune_soundtrack_generator).
+
+---
+
+**Day 29:**
+
+• Defined the generator and discriminator models that will be used for training a generative RNN model using Professor Forcing method. (https://github.com/wytyang00/undertale_deltarune_soundtrack_generator)
