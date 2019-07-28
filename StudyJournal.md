@@ -249,3 +249,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 **Day 30:**
 
 • Implemented a free-running sequence generation function for my generator model. It's yet to be tested, but it should pass starting inputs to the generator model and sequentially generate a new sequence by letting the generator use its last output as current input. (https://github.com/wytyang00/undertale_deltarune_soundtrack_generator?fbclid=IwAR2vhPqbPo3Kz9BcJir6MOb8H-lt9FRubjmL6SpcfV-wh6Vprub_T5tCEvs)
+
+---
+
+**Day 31:**
+
+• Implementation of Discriminator Loss Function for Professor Forcing is in progress. Trying to be cautious here since this is the most important part of the training... (https://github.com/wytyang00/undertale_deltarune_soundtrack_generator)
