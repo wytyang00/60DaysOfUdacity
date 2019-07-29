@@ -255,3 +255,11 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 **Day 31:**
 
 • Implementation of Discriminator Loss Function for Professor Forcing is in progress. Trying to be cautious here since this is the most important part of the training... (https://github.com/wytyang00/undertale_deltarune_soundtrack_generator)
+
+---
+
+**Day 32:**
+
+• Began my attempt to solve Pong with Rainbow DQN.
+
+• Implemented the Generator Loss Function for Professor Forcing training. (https://github.com/wytyang00/undertale_deltarune_soundtrack_generator)
