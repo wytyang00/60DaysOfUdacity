@@ -263,3 +263,15 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • Began my attempt to solve Pong with Rainbow DQN.
 
 • Implemented the Generator Loss Function for Professor Forcing training. (https://github.com/wytyang00/undertale_deltarune_soundtrack_generator)
+
+---
+
+**Day 33:**
+
+• Created a functioning infinite training loop for my Professor-Forced models.
+
+• Fixed some issues with the Discriminator model. (wrong input dimensions from RNN to MLP)
+
+• Started training the Professor-Forced models to see if the generative model improves.
+
+https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
