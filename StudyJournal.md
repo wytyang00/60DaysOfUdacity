@@ -275,3 +275,9 @@ Now I need to start working on the keystone project. I'm thinking of doing it as
 • Started training the Professor-Forced models to see if the generative model improves.
 
 https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
+
+---
+
+**Day 34:**
+
+• Let the models train for the whole day as I saved the generated piano note sequence every 50 updates. Trained for about 8400 updates so far. I'm going to stop it at 8500th update and save the model.
