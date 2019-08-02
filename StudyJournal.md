@@ -281,3 +281,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 34:**
 
 • Let the models train for the whole day as I saved the generated piano note sequence every 50 updates. Trained for about 8400 updates so far. I'm going to stop it at 8500th update and save the model.
+
+---
+
+**Day 35:**
+
+• Generated a few samples from my music generator and evaluated their quality by listening to them myself. It was bad...
