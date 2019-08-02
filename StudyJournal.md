@@ -287,3 +287,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 35:**
 
 • Generated a few samples from my music generator and evaluated their quality by listening to them myself. It was bad...
+
+---
+
+**Day 36:**
+
+• Started training the models again using both chords and notes, instead of only notes. Since this method requires less long-term dependency, it should produce better samples in the end, hopefully.
