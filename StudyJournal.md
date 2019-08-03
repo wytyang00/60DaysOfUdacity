@@ -293,3 +293,11 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 36:**
 
 • Started training the models again using both chords and notes, instead of only notes. Since this method requires less long-term dependency, it should produce better samples in the end, hopefully.
+
+---
+
+**Day 37:**
+
+• Continuing the training of the generator and discriminator models.
+
+• Implemented a function for turning sampled sequences into a certain text format which can then be converted into MIDI files.
