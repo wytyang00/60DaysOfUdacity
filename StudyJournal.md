@@ -313,3 +313,11 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 39:**
 
 • Created and started training a **very** deep LSTM network for music generation. This one follows my old methods where it's trained in a teacher-forcing manner and the data is represented solely by notes instead if having chords as well. Using a deep LSTM network with 8 LSTM layers gave me the best results several months ago, so I'm trying that approach.
+
+---
+
+**Day 40:**
+
+• Modified the training code for my 10-layer LSTM model so that I could save the model during the training as well as its past losses & accuracies.
+
+• Almost finished making a notebook for loading these saved models and generating samples.
