@@ -321,3 +321,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 • Modified the training code for my 10-layer LSTM model so that I could save the model during the training as well as its past losses & accuracies.
 
 • Almost finished making a notebook for loading these saved models and generating samples.
+
+---
+
+**Day 41:**
+
+• Adjusted some parameters of the LR Scheduler, making the training relatively fast, then re-ran the training.
