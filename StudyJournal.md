@@ -327,3 +327,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 41:**
 
 • Adjusted some parameters of the LR Scheduler, making the training relatively fast, then re-ran the training.
+
+---
+
+**Day 42:**
+
+• Continuing the deep LSTM training while slightly reorganizing the notebook code.
