@@ -339,3 +339,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 43:**
 
 • Followed the PyTorch tutorial on Spatial Transformer (https://pytorch.org/tutorials/intermediate/spatial_transformer_tutorial.html, https://github.com/wytyang00/PyTorch_Spatial_Transformer). Planning to experiment with the model and the code to get better insights.
+
+---
+
+**Day 44:**
+
+• Further training the deep music LSTM model and observing its free-running behavior. As the predictions for the following notes gets more accurate, the model tends to generate more parts that are almost identical to the training data. Currently trying to see how much it can overfit to the data.
