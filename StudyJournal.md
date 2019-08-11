@@ -345,3 +345,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 44:**
 
 • Further training the deep music LSTM model and observing its free-running behavior. As the predictions for the following notes gets more accurate, the model tends to generate more parts that are almost identical to the training data. Currently trying to see how much it can overfit to the data.
+
+---
+
+**Day 45:**
+
+• Stopped the training of the music LSTM as the loss started to oscillate even with a decreasing learning rate. The model now generates less noise and these samples tend to be more like mixtures of the original soundtracks.
