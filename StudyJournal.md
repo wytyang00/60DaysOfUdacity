@@ -351,3 +351,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 45:**
 
 • Stopped the training of the music LSTM as the loss started to oscillate even with a decreasing learning rate. The model now generates less noise and these samples tend to be more like mixtures of the original soundtracks.
+
+---
+
+**Day 46:**
+
+• Learned how the image transformation in Spatial Transformer Networks works: It's basically having a network that outputs 6 transformation parameters as a 2x3 matrix and doing a matrix multiplication on each pixel represented as (x, y, 1). (https://github.com/wytyang00/PyTorch_Spatial_Transformer)
