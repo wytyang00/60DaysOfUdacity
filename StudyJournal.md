@@ -357,3 +357,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 46:**
 
 • Learned how the image transformation in Spatial Transformer Networks works: It's basically having a network that outputs 6 transformation parameters as a 2x3 matrix and doing a matrix multiplication on each pixel represented as (x, y, 1). (https://github.com/wytyang00/PyTorch_Spatial_Transformer)
+
+---
+
+**Day 47:**
+
+• Following a tutorial on simple GANs with PyTorch: https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f. My notebook will be uploaded as soon as the training finishes.
