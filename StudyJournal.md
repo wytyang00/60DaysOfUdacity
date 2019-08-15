@@ -363,3 +363,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 47:**
 
 • Following a tutorial on simple GANs with PyTorch: https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f. My notebook will be uploaded as soon as the training finishes.
+
+---
+
+**Day 48:**
+
+• Finished my first hands-on exercise on training the simplest form of GANs. (https://github.com/wytyang00/Simple_MNIST_GANs)
