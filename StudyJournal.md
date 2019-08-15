@@ -369,3 +369,9 @@ https://github.com/wytyang00/undertale_deltarune_soundtrack_generator
 **Day 48:**
 
 • Finished my first hands-on exercise on training the simplest form of GANs. (https://github.com/wytyang00/Simple_MNIST_GANs)
+
+---
+
+**Day 49:**
+
+• Following the method used in Music Transformer(https://arxiv.org/abs/1809.04281) for my music generation project. Currently working on the preprocessing of MIDI files since the way they represent the data is different from mine. Before diving into the transformer part, I can try using this representation with my original methods to see how the generated samples differ from the previous ones.
